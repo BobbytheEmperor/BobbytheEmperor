@@ -1,4 +1,4 @@
-# Presentation-Pauline
+# pasp2300
 Lite om mig. 
 Jag går en kurs som handlar om baserna i Javascript och detta är mitt första Github prejekt.
 MVH Pauline Spetsmark
